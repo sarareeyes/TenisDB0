@@ -39,4 +39,4 @@ API_PREFIX = "/api/v1"
 
 # A random string that is used for security purposes
 # (this has been generated automatically upon project creation)
-SECRET_KEY = "w6Rei269Wyx1r3RYoi4l12L2XAmGy5Hz41Na6cmpgYg"
+# SECRET_KEY = "w6Rei269Wyx1r3RYoi4l12L2XAmGy5Hz41Na6cmpgYg"
